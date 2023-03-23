@@ -1,4 +1,4 @@
-# Turtle_crossing_capstone
+# Turtle_Crossing_Capstone_Project
 This is a classic arcade-style game where the player must safely guide a character across a busy street without being hit by any cars. The game is played on a screen, where the player moves their character one move at a time, while cars move in a linear fashion across the screen. The goal is to make it to the other side of the screen without being hit by any cars, and with each level, the traffic becomes more challenging.
 
 Installation
