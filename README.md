@@ -14,10 +14,10 @@ The player starts on one side of the screen, and the objective is to move their 
 
 The game is played in levels, and each level introduces new challenges. For example, the traffic may become faster, or the player may need to navigate through gaps between cars. The player has a limited number of lives.
 
-Controls
+## Controls
 
 Up arrow key: move the character up
 
-Contributing
+## Contributing
 
 This project is open for contributions. If you would like to contribute to this project, please fork the repository and submit a pull request.
